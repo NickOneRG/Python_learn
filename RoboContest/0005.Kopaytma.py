@@ -13,4 +13,5 @@ def f(Z):
     
     return count + 1 if count % 2 == 1 and Z > 0 else count
 
+
 print(f(int(input())))
